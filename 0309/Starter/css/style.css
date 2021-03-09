@@ -1,0 +1,16 @@
+.box-a {
+  background-color: red;
+  padding: 30px;
+  border: 7px solid black;
+  margin-top: 20px;
+  width: 200px;
+  height: 140px; 
+}
+.box-b {
+  background-color: salmon;
+  padding: 30px;
+  border: 7px solid black;
+  margin-top: 20px;
+  width: 200px;
+  height: 140px; 
+}
